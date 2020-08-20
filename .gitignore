@@ -1,0 +1,12 @@
+startPy_36_tf.bat
+weights.long.hdf5
+weights.next.hdf5
+weights.sector.hdf5
+weights.short.hdf5
+stocks_limited.csv
+/.idea
+/data_stock
+/data_sector
+/_temp
+/batch_train
+/batch_val
