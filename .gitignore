@@ -10,3 +10,4 @@ stocks_limited.csv
 /_temp
 /batch_train
 /batch_val
+/__pycache__
